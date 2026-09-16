@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tournament-site-rho.vercel.app/sitemap.xml
